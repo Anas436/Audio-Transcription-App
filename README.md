@@ -6,10 +6,7 @@ This is a Python application that allows you to load a Audio file and create tra
 
 ## How it works
 
-The application reads the PDF and splits the text into smaller chunks that can be then fed into a LLM. It uses OpenAI embeddings to create vector representations of the chunks. The application then finds the chunks that are semantically similar to the question that the user asked and feeds those chunks to the LLM to generate a response.
-
-The application uses Streamlit to create the GUI and Langchain to deal with the LLM.
-
+The "Whisper App" is a Streamlit-based application that allows users to upload audio files and transcribe them into text using the Whisper model. Users can easily upload their audio files, initiate the transcription process, and view the transcribed text. The app also provides a feature to play the original audio file. It simplifies audio transcription and offers a user-friendly interface for a seamless experience.
 
 ## Installation
 
