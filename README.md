@@ -1,8 +1,8 @@
-# PDFGPT
+# Audio-Transcription-App
 
 
 
-This is a Python application that allows you to load a PDF and ask questions about it using natural language. The application uses a LLM to generate a response about your PDF. The LLM will not answer questions unrelated to the document.
+This is a Python application that allows you to load a Audio file and create transcription using natural language. The application uses a recently releases Whishper of OpenAI. The Whisper will not answer show any text unrelated to the Audio.
 
 ## How it works
 
